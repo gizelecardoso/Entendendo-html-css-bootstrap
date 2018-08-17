@@ -1,0 +1,13 @@
+.estilo1 {
+  font-size: 66px;
+  color:#2abb57;
+  background-color:#f0ad49;
+  width:300px;
+  border:2px solid black;
+}
+
+.caixa {
+  background-color: blue;
+  color: red;
+  margin:10px 0px 100px 80%;
+}
